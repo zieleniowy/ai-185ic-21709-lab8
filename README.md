@@ -1,25 +1,9 @@
-# Create React App example
+# Aplikacje Internetowe - 185IC B2 21709 - aplikacja typu CRUD
 
-## How to use
+## sprawozdanie
+Aplikacja korzysta z api, które przygotowałem na lab 4, zatem w tym repozytorium znajduje się jedynie frontend. Aby zobaczyć podpis należy najechać kursorem na zdjęcie.
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
-
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
-```
-
-Install it and run:
-
-```sh
-npm install
-npm start
-```
-
-or:
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/create-react-app)
-
-## The idea behind the example
-
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
+![alt text](sprawko/1.png "Aby dodać nowy dokument należy podać jego adres w polu po lewej stronie.")
+![alt text](sprawko/2.png "Utworzony dokument pojawia się na liście nad guzikiem do dodawania, po kliknięciu przechodzimy w szczegóły klikniętego dokumentu.")
+![alt text](sprawko/3.png "Po kliknięciu w przycisk edycji możemy dodawać nowe pola do dokumentu. Aby usunąć pole wystarczy zapisać z tym polem bez wypełnionego klucza")
+![alt text](sprawko/4.png "Guzik do usunięcia dokumentu pojawia się w trybie edycji.")
